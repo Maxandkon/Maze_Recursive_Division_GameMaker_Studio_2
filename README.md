@@ -1,5 +1,5 @@
 # Maze_Recursive_Division_GameMaker_Studio_2
-A game with maze generation using the Recursive Division method, and basic gameplay elements such as path finding opponent
+A game with maze generation using the Recursive Division like method, and basic gameplay elements such as path finding opponent
 
 All main maze code in: Oplayer > Create Event
 
